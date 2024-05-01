@@ -2,7 +2,7 @@
 Terceira parte do trabalho da disciplina de Programação Orientada a Objetos. Primeiro semestre de 2024 (Período 3) 
 
 ## Atividades referentes ao capítulo 6 e 8: Vetor e Sub-rotina.
-### Activities related to chapter 4 and 5: Array and Subroutine.
+### Activities related to chapter 6 and 8: Array and Subroutine.
 - Lista 03: Questões respondidas 1 à 15.
 - List 3: Resolved exercises 1 to 15.
 
